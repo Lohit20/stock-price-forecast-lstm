@@ -99,7 +99,6 @@ Epoch 10/10 - loss: 0.0422 - val_loss: 0.1616
 ```bash
 git clone https://github.com/Lohit20/stock-price-forecast-lstm.git
 cd stock-price-forecast-lstm
-pip install -r requirements.txt
 ```
 
 - Run Jupyter notebooks in order: `1-data_collection` → `2-preprocessing` → `3-lstm_model`
