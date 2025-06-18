@@ -19,7 +19,6 @@ An end-to-end Python project for forecasting stock prices by scraping NASDAQ dat
 ├── models/                          # Saved Keras LSTM models
 ├── requirements.txt                 # Python dependencies
 ├── README.md                        # Project documentation
-└── .gitignore                       # Ignored files/folders
 ```
 
 ---
